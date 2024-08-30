@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.17763-SP0",
+    "python": "3.9.13",
+    "heartbeatAt": "2024-08-30T00:55:05.026030",
+    "startedAt": "2024-08-30T00:55:04.543413",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/PatrickSVM/CIFAR10-Image-Classification-with-CNN.git",
+        "commit": "3c09658171415ddd03c17ba06eafcfb7363ccd2d"
+    },
+    "email": null,
+    "root": "D:/ai-work/samples/CIFAR10-Image-Classification-with-CNN",
+    "host": "server",
+    "username": "root",
+    "executable": "c:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 476.93749618530273,
+            "used": 2.6816062927246094
+        }
+    },
+    "memory": {
+        "total": 63.78782272338867
+    }
+}
